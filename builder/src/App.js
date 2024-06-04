@@ -1,4 +1,3 @@
-// src/App.js
 import React, { useState, useEffect, memo } from 'react';
 import ReactFlow, {
   ReactFlowProvider,
